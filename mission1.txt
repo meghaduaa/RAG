@@ -1,0 +1,11 @@
+MISSION 1: OPERATION STEALTH SHIELD
+Objective: To infiltrate and gather intel on enemy movement along the Northern Ridge without being detected.
+Date: 05/03/2024
+Location: Sector 7G, Northern Ridge
+Details:
+- Team Alpha was deployed at 0400 hours via stealth helicopter.
+- No casualties reported.
+- Two enemy communication hubs were identified and geo-tagged.
+- Intel suggests enemy preparing for a supply drop on 06/03/2024.
+Outcome: Mission successful. No detection. Extraction at 0530 hours.
+Commander: Lt. Aarav Kapoor
